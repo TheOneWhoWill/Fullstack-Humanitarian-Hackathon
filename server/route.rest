@@ -1,0 +1,10 @@
+GET http://localhost:5000/posts/
+
+###
+
+POST http://localhost:5000/users/login
+
+{
+  "email": "mahmudjonn@gmail.com",
+  "password": "fffffffffffffffff"
+}

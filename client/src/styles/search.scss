@@ -37,3 +37,25 @@
     }
   }
 }
+
+.smallSearch {
+  padding: 20px;
+  width: 500px;
+  height: 45px;
+  display: flex;
+  margin-top: 30px;
+  margin-left: 90px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  input {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: none;
+  }
+  .searchGlass {
+    color: #7B481C;
+  }
+}
